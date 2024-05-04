@@ -16,7 +16,7 @@
     <img width="500" alt="image" src="https://github.com/soogoori/2022-1_AI_Practice/assets/81796258/93e803ea-185d-4c0a-872c-10ef8385a179">
 
 3.  제품 종류를 인식해서 분류한다.<br>
-    👉 Multi label classification & C-NN<br>
+    👉 Multi class classification & C-NN<br>
 
     <img width="500" alt="image" src="https://github.com/soogoori/2022-1_AI_Practice/assets/81796258/d4137f7f-525d-4006-ad18-10799efd2815">
     <img width="500" alt="image" src="https://github.com/soogoori/2022-1_AI_Practice/assets/81796258/48bb0bf1-01a3-4a84-906d-f31a718aa0f1">
